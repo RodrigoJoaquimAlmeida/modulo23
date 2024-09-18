@@ -1,0 +1,16 @@
+{
+	"name": "modulo23",
+	"version": "1.0.0",
+	"description": "API test server",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "node --watch ."
+	},
+	"author": "Rodrigo Joaquim",
+	"license": "ISC",
+	"type": "module",
+	"dependencies": {
+		"body": "^5.1.0"
+	}
+}
